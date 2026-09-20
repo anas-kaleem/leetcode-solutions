@@ -7,13 +7,13 @@ class Solution {
         System.arraycopy(nums1, 0, newArray, 0, nums1.length);
         System.arraycopy(nums2, 0, newArray, nums1.length, nums2.length);
         Arrays.sort(newArray);
-        index = (size / 2) - 1;
+        index = size / 2;
         if(size % 2 == 0){
-            return ((newArray[index] + newArray[index + 1]) / 2.0);
+            return ((newArray[index - 1] + newArray[index]) / 2.0);
         }
 
         else{
-            return newArray[index + 1];
+            return newArray[index];
         }
         
     }
