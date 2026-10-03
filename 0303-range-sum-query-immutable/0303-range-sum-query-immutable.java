@@ -1,16 +1,17 @@
 class NumArray {
     private int numsLocal[];
     public NumArray(int[] nums) {
-         numsLocal = new int[nums.length];
-         numsLocal = nums;
+         this.numsLocal = nums;
+         for(int i = 1; i < numsLocal.length; i++){
+            numsLocal[i] = numsLocal[i] + numsLocal[i - 1];
+         }
     }
     
     public int sumRange(int left, int right) {
-        int sum = 0;
-        for(int i = left; i <= right; i++){
-            sum = sum + numsLocal[i];
+        if(left == 0){
+            return numsLocal[right];
         }
-        return sum;
+        return numsLocal[right] - numsLocal[left - 1];
     }
 }
 
