@@ -1,7 +1,6 @@
 class NumArray {
     private int numsLocal[];
     public NumArray(int[] nums) {
-         numsLocal = new int[nums.length];
          numsLocal = nums;
     }
     
