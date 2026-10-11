@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0495-teemo-attacking) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
