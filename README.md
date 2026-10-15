@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/anas-kaleem/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
